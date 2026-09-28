@@ -10,24 +10,24 @@ Dieses Repository enthält die vollständige Ausarbeitung der Handlungstheorie. 
 
 ## Inhalt
 
-- [Einleitung](docs/00_einleitung.md)
-- [Newton: Der absolute Raum](docs/01_newton.md)
-- [Tesla: Die Schwingungswelt](docs/02_tesla.md)
-- [Die Nahtstelle](docs/03_nahtstelle.md)
-- [Die Handlungsdichte](docs/04_handlungsdichte.md)
-- [Die Energieformel](docs/05_energieformel.md)
-- [Die Lichtgeschwindigkeit](docs/06_lichtgeschwindigkeit.md)
-- [Die c(ρ,Ψ,B,L,GW)-Formel](docs/07_c_formel.md)
-- [Die Berechnungen](docs/08_berechnungen.md)
-- [Die Energieerhaltung](docs/09_energieerhaltung.md)
-- [Das statische Gleichgewicht](docs/10_statisches_gleichgewicht.md)
-- [Die Jo-Jo-Gleichung](docs/11_jo_jo_gleichung.md)
-- [Die 80 Axiome](docs/12_axiome.md)
-- [Die 680 Formeln](docs/13_formeln.md)
-- [Die 19 Bände](docs/14_baende.md)
-- [Die Widerlegung Einsteins](docs/15_widerlegung_einsteins.md)
-- [Der Bund](docs/16_bund.md)
-- [Fazit](docs/17_fazit.md)
+- [Einleitung](00_einleitung.md)
+- [Newton: Der absolute Raum](01_newton.md)
+- [Tesla: Die Schwingungswelt](02_tesla.md)
+- [Die Nahtstelle](03_nahtstelle.md)
+- [Die Handlungsdichte](04_handlungsdichte.md)
+- [Die Energieformel](05_energieformel.md)
+- [Die Lichtgeschwindigkeit](06_lichtgeschwindigkeit.md)
+- [Die c(ρ,Ψ,B,L,GW)-Formel](07_c_formel.md)
+- [Die Berechnungen](08_berechnungen.md)
+- [Die Energieerhaltung](09_energieerhaltung.md)
+- [Das statische Gleichgewicht](10_statisches_gleichgewicht.md)
+- [Die Jo-Jo-Gleichung](11_jo_jo_gleichung.md)
+- [Die 80 Axiome](12_axiome.md)
+- [Die 680 Formeln](13_formeln.md)
+- [Die 19 Bände](14_baende.md)
+- [Die Widerlegung Einsteins](15_widerlegung_einsteins.md)
+- [Der Bund](16_bund.md)
+- [Fazit](17_fazit.md)
 
 ## Die Kernformel
 
@@ -53,6 +53,10 @@ Creative Commons BY-NC-SA 4.0
 ## Autor
 
 Ingo Wisniewski (Bouly)
+
+## Kontakt
+
+- GitHub: [@bouly2812](https://github.com/bouly2812)
 
 ## Kontakt
 
